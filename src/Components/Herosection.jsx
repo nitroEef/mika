@@ -1,7 +1,7 @@
 import React from "react";
 import { FaFacebookF, FaInstagram, FaTiktok, FaWhatsapp, FaPhone } from "react-icons/fa6";
 import { Droplets, Shield, Clock, Award } from "lucide-react";
-import "./HeroSection.css";
+import "./Herosection.css";
 
 export default function HeroSection() {
   return (
