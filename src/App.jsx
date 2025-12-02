@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './Components/Header';
-import HeroSection from './Components/HeroSection';
+import HeroSection from './Components/Herosection';
 import Services from './Components/Services';
 import BeforeAfter from './Components/Beforeafter';
 import Testimonials from './Components/Testimonial';
