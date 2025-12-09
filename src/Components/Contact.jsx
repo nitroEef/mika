@@ -25,7 +25,7 @@ export default function Contact() {
     const whatsappMessage = `*New Service Request*%0A%0A*Name:* ${formData.name}%0A*Phone:* ${formData.phone}%0A*Service:* ${formData.service}%0A*Message:* ${formData.message}`;
     
     // Replace with the actual WhatsApp number (include country code without + or spaces)
-    const whatsappNumber = '+2348136340736'; // Change this to the actual number
+    const whatsappNumber = '+2348133498685'; // Change this to the actual number
     
     // Open WhatsApp with pre-filled message
     window.open(`https://wa.me/${whatsappNumber}?text=${whatsappMessage}`, '_blank');
@@ -182,27 +182,7 @@ export default function Contact() {
           </div>
         </div>
 
-        <footer className="footer">
-          <div className="footer-container">
-            <div className="footer-content">
-              <div className="footer-logo">
-                <div className="logo-icon-footer">💧</div>
-                <span className="logo-text">ProPlumb</span>
-              </div>
-              <p className="footer-text">
-                Professional plumbing services you can trust. Licensed, insured, and
-                dedicated to excellence.
-              </p>
-            </div>
-            <div className="footer-bottom">
-              <p>&copy; 2024 ProPlumb. All rights reserved.</p>
-              <div className="footer-links">
-                <a href="#privacy">Privacy Policy</a>
-                <a href="#terms">Terms of Service</a>
-              </div>
-            </div>
-          </div>
-        </footer>
+       
       </section>
     </div>
   );

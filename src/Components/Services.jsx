@@ -75,7 +75,6 @@ export default function Services() {
                   </li>
                 ))}
               </ul>
-              <button className="service-btn">Learn More</button>
             </div>
           ))}
         </div>

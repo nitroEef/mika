@@ -28,6 +28,7 @@ export default function Header() {
         <div className="logo">
           <Droplets className="logo-icon" />
           <span className="logo-text">
+            
             Mika<span className="logo-accent">Water Solutions</span>
           </span>
         </div>

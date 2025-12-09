@@ -158,21 +158,23 @@
   color: #60a5fa;
   font-size: 14px;
   font-weight: 600;
-  margin-bottom: 25px;
+  margin-top: 55px;
   backdrop-filter: blur(10px);
 }
 
 .hero-heading {
-  font-size: 58px;
+  font-size: 48px;
   font-weight: 800;
   line-height: 1.1;
   color: #ffffff;
-  margin-bottom: 20px;
+  margin-top: 30px;
   letter-spacing: -1px;
 }
 
 .gradient-text {
-  background: linear-gradient(135deg, #3b82f6 0%, #06b6d4 100%);
+  /* background: linear-gradient(135deg, #3b82f6 0%, #06b6d4 100%); */
+  background: #60a5fa;
+  /* color: */
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -192,7 +194,7 @@
   font-size: 18px;
   line-height: 1.7;
   color: #cbd5e1;
-  margin-bottom: 35px;
+  margin-top: 25px;
   max-width: 550px;
 }
 
@@ -203,7 +205,7 @@
 .stats-row {
   display: flex;
   gap: 40px;
-  margin-bottom: 40px;
+  margin-top: 20px;
   flex-wrap: wrap;
 }
 
@@ -237,7 +239,7 @@
 .cta-buttons {
   display: flex;
   gap: 15px;
-  margin-bottom: 40px;
+  margin-top: 30px;
   flex-wrap: wrap;
 }
 
@@ -289,6 +291,7 @@
   align-items: center;
   gap: 20px;
   flex-wrap: wrap;
+  margin-top: 31px;
 }
 
 .social-label {

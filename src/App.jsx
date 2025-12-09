@@ -6,6 +6,7 @@ import BeforeAfter from './Components/Beforeafter';
 import Testimonials from './Components/Testimonial';
 import Contact from './Components/Contact';
 import Aboutme from './Components/Aboutme';
+import Footer from './Components/Footer';
 import './App.css';
 
 export default function App() {
@@ -19,6 +20,7 @@ export default function App() {
       <BeforeAfter />
       <Testimonials />
       <Contact />
+      <Footer />
     </div>
   );
 }
