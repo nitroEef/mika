@@ -47,7 +47,7 @@ export default function Contact() {
     {
       icon: <Phone size={24} />,
       title: 'Call Us',
-      info: '(123) 456-7890',
+      info: '+2348133498685',
       subInfo: '24/7 Emergency Service'
     },
     {
