@@ -7,41 +7,41 @@ export default function Testimonials() {
 
   const testimonials = [
     {
-      name: 'Sarah Johnson',
+      name: 'Mrs Omini Saheed',
       role: 'Homeowner',
-      location: 'Los Angeles, CA',
+      location: 'Area 8, Abuja',
       rating: 5,
       text: 'Absolutely fantastic service! They responded to our emergency leak at 2 AM and had it fixed within hours. Professional, courteous, and incredibly skilled. Highly recommend!',
       image: '👩'
     },
     {
-      name: 'Michael Chen',
-      role: 'Property Manager',
-      location: 'San Diego, CA',
+      name: 'Architect Sam',
+      role: 'Engineer',
+      location: 'Ajah, Lagos',
       rating: 5,
       text: 'We use them for all our properties. Their maintenance plans have saved us thousands in potential damages. The team is always punctual and their work is top-notch.',
       image: '👨'
     },
     {
-      name: 'Emily Rodriguez',
-      role: 'Business Owner',
-      location: 'Orange County, CA',
+      name: 'Mr Nasir ',
+      role: 'Engineer',
+      location: 'Kaduna',
       rating: 5,
       text: 'They completed a full commercial repiping project with minimal disruption to our business. The quality of work exceeded our expectations. True professionals!',
       image: '👩‍💼'
     },
     {
-      name: 'David Thompson',
+      name: 'Mr Teddy',
       role: 'Homeowner',
-      location: 'Long Beach, CA',
+      location: 'Games Village, Abuja',
       rating: 5,
       text: 'Our bathroom renovation was flawless. They worked efficiently, kept everything clean, and the final result is stunning. Worth every penny!',
       image: '👨‍💼'
     },
     {
-      name: 'Jessica Martinez',
+      name: 'Alhaja Food seller',
       role: 'Restaurant Owner',
-      location: 'Pasadena, CA',
+      location: 'Kado, Abuja',
       rating: 5,
       text: 'Quick response time and exceptional service. They fixed our kitchen plumbing issue during lunch rush with minimal impact. Lifesavers!',
       image: '👩‍🍳'
